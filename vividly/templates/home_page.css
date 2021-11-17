@@ -1,0 +1,36 @@
+body{
+    background-color: #3f37c9;
+}
+
+h1, p{
+    color: white;
+    text-align: center;
+}
+
+.navbar{
+    background-color: white;
+    margin: 0;
+    padding: 15px;
+    display: flex;
+    font-family: 'Patua One', cursive;
+    font-size: 1.2em;
+}
+
+.navbar-right{
+    position: absolute;
+    right: 15px;
+}
+
+.navbar-headers{
+    display: inline;
+    color: black;
+    padding: 5px;
+}
+
+.su-image{
+    display: flex;
+}
+
+.vector-image{
+    height: 400px;
+}
